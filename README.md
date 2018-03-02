@@ -21,5 +21,5 @@ enum34 1.1.6
 numba 0.30.0
 
 
-## Licence
+## License
 Copyright © 2016 T_Sumida Distributed under the MIT License.
